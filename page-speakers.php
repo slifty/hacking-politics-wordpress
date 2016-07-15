@@ -1,16 +1,22 @@
 <?php get_header(); ?>
 
-<h2>Speakers</h2>
+<div class="container">
 
-<span>Speakers will be announced here as they are confirmed.</span>
+	<div class="page-header">
 
-<ul>
-	<li>Clay Shirky, NYU Shanghai</li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-</ul>
+		<div class="row">
+          <div class="col-lg-8 col-md-7 col-sm-6">
+            <h1>Speakers</h1>
+            <p class="lead">Will be announced as they are confirmed</p>
+          </div>
+
+		<div class="col-lg-12">
+			test
+		</div>
+
+	</div>
+
+</div>
+
 
 <?php get_footer(); ?>
