@@ -1,3 +1,5 @@
+<?php get_header(); ?>
+
 <h2>About Super News Time</h2>
 
 <span>Super News Time is an online community that explores the election through remix.</span>
@@ -57,3 +59,6 @@ With more than 400 hours of video uploaded to YouTube every minute, it’s clear
 	<li>video help</li>
 	<li>transcription help</li>
 	<li>spreading the word</li>
+</ul>
+
+<?php get_footer(); ?>

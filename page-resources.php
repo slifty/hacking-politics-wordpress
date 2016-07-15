@@ -1,3 +1,5 @@
+<?php get_header(); ?>
+
 <h2>Tools</h2>
 
 <span>To help you deconstruct the election, we've pulled together a range of free tools that make it easy to create, edit and share video.</span>
@@ -66,3 +68,5 @@
 <h3>Primary debates</h3>
 <h3>Sunday shows</h3>
 <h3>Speeches and rallies</h3>
+
+<?php get_footer(); ?>

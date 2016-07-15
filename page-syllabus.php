@@ -1,3 +1,4 @@
+<?php get_header(); ?>
 <h2>Overview</h2>
 
 <h3>Week 1 — Sep 12th: Television (History/Hacking of)</h3>
@@ -115,3 +116,5 @@
 
 	<h4>Activity:</h4>
 	<span><strong>Create an election retrospective—and troll hard.</span></strong>
+
+<?php get_footer(); ?>
