@@ -6,8 +6,7 @@
 
 		<div class="row">
           <div class="col-lg-8 col-md-8 col-sm-8">
-            <h1>FAQ</h1>
-            <p class="lead"><a href="https://twitter.com/search?f=tweets&q=%23spintimetv">#spintimetv</a> is an online community that explores the election through remix. </p>
+            <h1><strong><a href="https://twitter.com/search?f=tweets&q=%23spintimetv">#spintimetv</a> is an online community that explores election 2016 through video remix.</strong></h1>
           </div>
 
 		<div class="col-lg-8 col-md-8 col-sm-8">
@@ -21,12 +20,12 @@
 			<h3>What will I make?</h3>
 			<span>You'll learn how to make supercuts, video essays, animated GIFs and viral videos that will challenge your creativity and help you express your point of view on Facebook, Twitter, and other social media.</span>
 
-			<h3>Who is this course for?</h3>
+			<h3>Who is this for?</h3>
 			<span>This course is appropriate for anyone with an interest in politics and the news media. We anticipate participation from students in media studies, bloggers and journalists, creative media-makers, historians, researchers, and others. 
 
 			You should join if you are interested in exploring Election 2016 topics in a fun, collaborative community—you’ll have many opportunities to show off your creativity and express yourself by creating and sharing video.</span>
 
-			<h3>Are there any pre-requisites?</h3>
+			<h3>Do I need to know anything going in?</h3>
 			<span>Familiarity with the American political system and some experience with video would be helpful, but not necessary. You’ll need a computer with a modern browser like Chrome, Firefox or Safari and be comfortable participating in an online community.</span>
 
 			<h3>When does it take place?</h3>

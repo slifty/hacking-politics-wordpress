@@ -4,7 +4,7 @@
     <head>
         <meta charset="<?php bloginfo( 'charset' ); ?>" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        <title>Super News Time!</title>
+        <title>Spin Time TV</title>
         <?php wp_head(); ?>
     </head>
 

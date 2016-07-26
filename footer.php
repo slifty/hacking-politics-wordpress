@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" style="background-color: white;">
 			<div class="row">
 				<div class="col-md-3">
 					<img src="../img/partners/itp.png">
