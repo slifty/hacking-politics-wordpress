@@ -4,8 +4,8 @@
 
 	<div class="page-header">
 	<video autoplay loop id="bgvid">
-    <source src="../img/background.ogv" type="video/ogv">
-    <source src="../img/background.mp4" type="video/mp4">
+    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background.ogv" type="video/ogv">
+    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background.mp4" type="video/mp4">
 </video>
 
 		<div class="row whitetext">

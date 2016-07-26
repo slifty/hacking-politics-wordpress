@@ -2,20 +2,20 @@
 	<div class="container" style="background-color: white">
 			<div class="row" style="margin-top: 50px">
 				<div class="col-md-3">
-					<img src="../img/partners/itp.png">
+					<img src="<?php bloginfo('stylesheet_directory'); ?>/img/partners/itp.png">
 				</div>
 
 
 				<div class="col-md-3">
-					<img src="../img/partners/archive.png">
+					<img src="<?php bloginfo('stylesheet_directory'); ?>/img/partners/archive.png">
 				</div>
 
 				<div class="col-md-3">
-					<img src="../img/partners/mozilla.png">
+					<img src="<?php bloginfo('stylesheet_directory'); ?>/img/partners/mozilla.png">
 				</div>
 
 				<div class="col-md-3">
-					<img src="../img/partners/lamp.png">
+					<img src="<?php bloginfo('stylesheet_directory'); ?>/img/partners/lamp.png">
 				</div>
 </div>
 
@@ -25,13 +25,13 @@
 		<p style="text-align: center; margin-top: 20px">Made by a bunch of people in 2016 * contact@supernewstime.tv</p>
 	</div>
 
-			</div>	
+			</div>
 		</div>
 </div>
         <?php wp_footer(); ?>
 <script>
 $(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip(); 
+    $('[data-toggle="tooltip"]').tooltip();
 });
 </script>
 	</body>

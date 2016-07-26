@@ -12,7 +12,7 @@
         <div class="navbar navbar-default navbar-fixed-top" id="navbar-main">
         <div class="container">
             <div class="navbar-header">
-                <a href="<?php bloginfo('url'); ?>/home" class="navbar-brand"><img src="../img/logo.png" class="logotop"></a>
+                <a href="<?php bloginfo('url'); ?>/home" class="navbar-brand"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/logo.png" class="logotop"></a>
             </div>
         <ul class="nav navbar-nav navbar-right">
                                 <li id="faq-nav"><a href="<?php bloginfo('url'); ?>/about">About</a></li>

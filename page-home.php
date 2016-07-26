@@ -12,7 +12,7 @@
         <div class="navbar navbar-default navbar-fixed-top" id="navbar-main">
         <div class="container">
             <div class="navbar-header">
-                <a href="<?php bloginfo('url'); ?>/home" class="navbar-brand"><img src="../img/logo.png" class="logotop"></a>
+                <a href="<?php bloginfo('url'); ?>/home" class="navbar-brand"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/logo.png" class="logotop"></a>
             </div>
         <ul class="nav navbar-nav navbar-right">
                                 <li id="faq-nav"><a href="<?php bloginfo('url'); ?>/about">About</a></li>
@@ -45,8 +45,8 @@
 
 <div class="page-header" id="banner">
 	<video autoplay loop id="bgvid">
-    <source src="../img/background.ogv" type="video/ogv">
-    <source src="../img/background.mp4" type="video/mp4">
+    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background.ogv" type="video/ogv">
+    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background.mp4" type="video/mp4">
 </video>
 </div>
 			<div class="jumbotron">
@@ -80,14 +80,14 @@
 
 		            <a class="twitter-timeline"  href="https://twitter.com/hashtag/spintimetv" data-widget-id="757742999103213568">#spintimetv Tweets</a>
 		            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-		         
+
             	</div>
             </div>
 
         <?php wp_footer(); ?>
 <script>
 $(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip(); 
+    $('[data-toggle="tooltip"]').tooltip();
 });
 </script>
 	</body>
