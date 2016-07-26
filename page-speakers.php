@@ -20,7 +20,7 @@
 			<div class="col-md-3">
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
-				  	<img src="/img/speakers/clay.jpg" class="speaker-pic">
+				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/clay.jpg" class="speaker-pic">
 				    <p class="speaker-text">Clay Shirky, NYU</p>
 				  </div>
 				</div>
@@ -29,7 +29,7 @@
 			<div class="col-md-3">
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
-				  	<img src="/img/speakers/angie.jpg" class="speaker-pic">
+				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/angie.jpg" class="speaker-pic">
 				    <p class="speaker-text">Angie Holan, Politifact</p>
 				  </div>
 				</div>
@@ -38,7 +38,7 @@
 			<div class="col-md-3">
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
-				  	<img src="/img/speakers/slifty.jpg" class="speaker-pic">
+				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/slifty.jpg" class="speaker-pic">
 					<p class="speaker-text">Dan Schultz, Internet Archive</p>
 				  </div>
 				</div>
@@ -47,7 +47,7 @@
 			<div class="col-md-3">
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
-				  	<img src="/img/speakers/moskowitz.jpg" class="speaker-pic">
+				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/moskowitz.jpg" class="speaker-pic">
 					<p class="speaker-text">Ben Moskowitz, NYU ITP</p>
 				  </div>
 				</div>
@@ -59,7 +59,7 @@
 			<div class="col-md-3">
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
-				  	<img src="/img/speakers/clay.jpg" class="speaker-pic">
+				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/clay.jpg" class="speaker-pic">
 				    <p class="speaker-text">Clay Shirky, NYU</p>
 				  </div>
 				</div>
@@ -68,7 +68,7 @@
 			<div class="col-md-3">
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
-				  	<img src="/img/speakers/angie.jpg" class="speaker-pic">
+				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/angie.jpg" class="speaker-pic">
 				    <p class="speaker-text">Angie Holan, Politifact</p>
 				  </div>
 				</div>
@@ -77,7 +77,7 @@
 			<div class="col-md-3">
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
-				  	<img src="/img/speakers/slifty.jpg" class="speaker-pic">
+				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/slifty.jpg" class="speaker-pic">
 					<p class="speaker-text">Dan Schultz, Internet Archive</p>
 				  </div>
 				</div>
@@ -86,7 +86,7 @@
 			<div class="col-md-3">
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
-				  	<img src="/img/speakers/moskowitz.jpg" class="speaker-pic">
+				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/moskowitz.jpg" class="speaker-pic">
 					<p class="speaker-text">Ben Moskowitz, NYU ITP</p>
 				  </div>
 				</div>
