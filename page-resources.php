@@ -1,13 +1,17 @@
 <?php get_header(); ?>
 
 <div class="container">
+	<video autoplay loop id="bgvid">
+    <source src="../img/background2.ogv" type="video/ogv">
+    <source src="../img/background2.mp4" type="video/mp4">
+</video>
 
 	<div class="page-header">
 
 		<div class="row">
           <div class="col-lg-9 col-md-9 col-sm-9">
-            <h1>Resources</h1>
-            <p class="lead">To help you deconstruct the election, we've pulled together a range of free tools that make it easy to create, edit and share video.</span></p>
+            <h1 class="whitetext">Resources</h1>
+            <p class="lead whitetext">To help you deconstruct the election, we've pulled together a range of free tools that make it easy to create, edit and share video.</span></p>
           </div>
 
 		<div class="row">

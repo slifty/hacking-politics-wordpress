@@ -1,5 +1,6 @@
-<div class="container" style="background-color: white;">
-			<div class="row">
+<div style="width: 100%; background-color: white">
+	<div class="container" style="background-color: white">
+			<div class="row" style="margin-top: 50px">
 				<div class="col-md-3">
 					<img src="../img/partners/itp.png">
 				</div>
@@ -19,8 +20,14 @@
 </div>
 
 			</div>
-			</div>
+
+	<div class="row">
+		<p style="text-align: center; margin-top: 20px">Made by a bunch of people in 2016 * contact@supernewstime.tv</p>
+	</div>
+
+			</div>	
 		</div>
+</div>
         <?php wp_footer(); ?>
 <script>
 $(document).ready(function(){

@@ -21,7 +21,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/clay.jpg" class="speaker-pic">
-				    Clay Shirky, NYU
+				    <p class="speaker-text">Clay Shirky, NYU</p>
 				  </div>
 				</div>
 			</div>
@@ -30,7 +30,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/angie.jpg" class="speaker-pic">
-				    Angie Holan, Politifact
+				    <p class="speaker-text">Angie Holan, Politifact</p>
 				  </div>
 				</div>
 			</div>
@@ -39,7 +39,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/slifty.jpg" class="speaker-pic">
-					Dan Schultz, Internet Archive
+					<p class="speaker-text">Dan Schultz, Internet Archive</p>
 				  </div>
 				</div>
 			</div>
@@ -48,7 +48,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/slifty.jpg" class="speaker-pic">
-					Dan Schultz, Internet Archive
+					<p class="speaker-text">Dan Schultz, Internet Archive</p>
 				  </div>
 				</div>
 			</div>
@@ -70,7 +70,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/angie.jpg" class="speaker-pic">
-				    Angie Holan, Politifact
+				    <p class="speaker-text">Angie Holan, Politifact</p>
 				  </div>
 				</div>
 			</div>
@@ -79,7 +79,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/slifty.jpg" class="speaker-pic">
-					Dan Schultz, Internet Archive
+					<p class="speaker-text">Dan Schultz, Internet Archive</p>
 				  </div>
 				</div>
 			</div>
@@ -88,7 +88,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/slifty.jpg" class="speaker-pic">
-					Dan Schultz, Internet Archive
+					<p class="speaker-text">Dan Schultz, Internet Archive</p>
 				  </div>
 				</div>
 			</div>
@@ -110,7 +110,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/angie.jpg" class="speaker-pic">
-				    Angie Holan, Politifact
+				    <p class="speaker-text">Angie Holan, Politifact</p>
 				  </div>
 				</div>
 			</div>
@@ -119,7 +119,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/slifty.jpg" class="speaker-pic">
-					Dan Schultz, Internet Archive
+					<p class="speaker-text">Dan Schultz, Internet Archive</p>
 				  </div>
 				</div>
 			</div>
@@ -128,7 +128,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/slifty.jpg" class="speaker-pic">
-					Dan Schultz, Internet Archive
+					<p class="speaker-text">Dan Schultz, Internet Archive</p>
 				  </div>
 				</div>
 			</div>
@@ -150,7 +150,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/angie.jpg" class="speaker-pic">
-				    Angie Holan, Politifact
+				    <p class="speaker-text">Angie Holan, Politifact</p>
 				  </div>
 				</div>
 			</div>
@@ -159,7 +159,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/slifty.jpg" class="speaker-pic">
-					Dan Schultz, Internet Archive
+					<p class="speaker-text">Dan Schultz, Internet Archive</p>
 				  </div>
 				</div>
 			</div>
@@ -168,7 +168,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="/img/speakers/slifty.jpg" class="speaker-pic">
-					Dan Schultz, Internet Archive
+					<p class="speaker-text">Dan Schultz, Internet Archive</p>
 				  </div>
 				</div>
 			</div>

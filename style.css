@@ -6920,11 +6920,19 @@ label {
   margin: 0px auto;  
   display: block;  
 }
-.speaker-pic {
+.speaker-text {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+  .speaker-pic {
   max-width:100%;
   max-height:100%;
   display: block;
   opacity: .8;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 .speaker-pic:hover {
   opacity: 1;
