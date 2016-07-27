@@ -4,6 +4,7 @@
     <head>
         <meta charset="<?php bloginfo( 'charset' ); ?>" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="icon" type="image/ico" sizes="16x16" href="<?php bloginfo('stylesheet_directory'); ?>/img/icon/favicon.ico">
         <title>Spin Time TV</title>
         <?php wp_head(); ?>
     </head>
