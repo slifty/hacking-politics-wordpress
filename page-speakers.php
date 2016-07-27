@@ -3,7 +3,7 @@
 <div class="container">
 
 	<div class="page-header">
-	<video autoplay loop id="bgvid">
+	<video autoplay loop muted="true" id="bgvid">
     <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background.ogv" type="video/ogv">
     <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background.mp4" type="video/mp4">
 </video>

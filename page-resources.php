@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <div class="container">
-	<video autoplay loop id="bgvid">
+	<video autoplay loop muted="true" id="bgvid">
     <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background2.ogv" type="video/ogv">
     <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background2.mp4" type="video/mp4">
 </video>

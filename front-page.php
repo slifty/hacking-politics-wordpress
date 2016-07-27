@@ -44,7 +44,7 @@
 <div class="container">
 
 <div class="page-header" id="banner">
-	<video autoplay loop id="bgvid">
+	<video autoplay loop muted="true" id="bgvid">
     <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background.ogv" type="video/ogv">
     <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background.mp4" type="video/mp4">
 </video>
@@ -52,7 +52,7 @@
 			<div class="jumbotron">
 			<h1><a href="https://twitter.com/search?f=tweets&q=%23spintimetv">#spintimetv</a> is an online community that explores election 2016 through video remix.</h1>
 			<br>
-			<a class="btn btn-lg red button" href="#" role="button">Sign up today</a>
+			<a class="btn btn-lg red button" href="<?php bloginfo('url'); ?>/join" role="button">Sign up today</a>
 			</div>
 			<div class="row">
 		    	<div class="col-md-8">

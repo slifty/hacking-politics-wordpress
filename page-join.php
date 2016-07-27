@@ -5,7 +5,7 @@
 	<div class="page-header">
 
 		<div class="row">
-          <div class="col-lg-8 col-md-7 col-sm-6">
+          <div class="col-lg-8 col-md-8 col-sm-8">
             <h1>Join</h1>
             <p class="lead">Join Super News Time!</span></p>
           </div>
