@@ -7,6 +7,7 @@
         <link rel="icon" type="image/ico" sizes="16x16" href="<?php bloginfo('stylesheet_directory'); ?>/img/icon/favicon.ico">
         <title>Spin Time TV</title>
         <?php wp_head(); ?>
+
     </head>
 
     <body>
@@ -20,13 +21,14 @@
                                 <li id="speakers-nav"><a href="<?php bloginfo('url'); ?>/speakers">Talks</a></li>
                                 <li id="syllabus-nav"><a href="<?php bloginfo('url'); ?>/syllabus">Schedule</a></li>
                                 <li class="dropdown">
-                                    <a href="<?php bloginfo('url'); ?>/resources" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Resources <span class="caret"></span></a>
+                                    <a href="<?php bloginfo('url'); ?>/resources" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tools <span class="caret"></span></a>
                                     <ul class="dropdown-menu" role="menu">
-                                      <li><a href="http://archive.org/pop/editor.html">TV News Editor</a></li>
+                                      <li><a href="<?php bloginfo('url'); ?>/editor">TV News Editor</a></li>
                                       <li class="divider"></li>
-                                      <li><a href="<?php bloginfo('url'); ?>/resources">Tools</a></li>
-                                      <li><a href="<?php bloginfo('url'); ?>/resources">References</a></li>
-                                      <li><a href="<?php bloginfo('url'); ?>/resources">Content</a></li>
+                                      <li><a href="<?php bloginfo('url'); ?>/pad">Transcript Editor</a></li>
+                                      <li class="divider"></li>
+                                      <li><a href="<?php bloginfo('url'); ?>/resources">Other stuff</a></li>
+                                    </a></li>
                                     </ul>
                                   </li>
                                 <li id="speakers-nav"><a href="<?php bloginfo('url'); ?>/credits">Credits</a></li>

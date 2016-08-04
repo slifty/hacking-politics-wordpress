@@ -5,7 +5,7 @@
         <meta charset="<?php bloginfo( 'charset' ); ?>" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         <link rel="icon" type="image/ico" sizes="16x16" href="<?php bloginfo('stylesheet_directory'); ?>/img/icon/favicon.ico">
-    <title>Spin Time TV</title>
+        <title>Spin Time TV</title>
         <?php wp_head(); ?>
     </head>
 
@@ -40,46 +40,9 @@
           </ul>
 </div>
         </div>
-            <div id="main" style="padding-top: 50px">
+            <div id="main" style="padding-top: 25px">
 
-<div class="container">
 
-<div class="page-header" id="banner">
-	<video autoplay loop id="bgvid">
-    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background.ogv" type="video/ogv">
-    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background.mp4" type="video/mp4">
-</video>
-</div>
-			<div class="jumbotron">
-			<h1><a href="https://twitter.com/search?f=tweets&q=%23spintimetv">#spintimetv</a> is an online community that explores election 2016 through video remix.</h1>
-      <br>
-			<br>
-			<a class="btn btn-lg red button" href="#" role="button">Sign up for updates</a>
-			</div>
-			<div class="row">
-		    	<div class="col-md-8">
-					  <div class="panel panel-default">
-					  <div class="panel-body">
-      <h2>Spin Time TV begins September 26, 2016</h2>
-		            <p class="lead">13 weeks to election day!</p>
-		         	<div class="progress progress-striped"><div class="progress-bar progress-bar-info" style="width: 1%"></div></div>
-				<ul class="pager">
-				  <li class="previous disabled"><a href="#">&larr; Last week</a></li>
-				  <li>Now: sign up!</li>
-				  <li class="next"><a href="#">Next week &rarr;</a></li>
-				</ul>
-			</div>
-			</div>
-
-            	</div>
-		    	<div class="col-md-4">
-
-		            <a class="twitter-timeline"  href="https://twitter.com/hashtag/spintimetv" data-widget-id="757742999103213568">#spintimetv Tweets</a>
-		            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-            	</div>
-            </div>
-
-        <?php wp_footer(); ?>
-	</body>
-</html>
+		<div style="text-align: center">
+		<iframe src="http://archive.org/pop/editor.html" style="width: 100%; height: 640px; border: none;">
+		</div>
