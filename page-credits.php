@@ -5,8 +5,8 @@
 	<div class="page-header">
 
   <video autoplay loop muted="true" id="bgvid">
-    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/comicscratch2.webm" type="video/webm">
-    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/comicscratch2.mp4" type="video/mp4">
+    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/comicscratch.webm" type="video/webm">
+    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/comicscratch.mp4" type="video/mp4">
 </video>
 
 		<div class="row">
