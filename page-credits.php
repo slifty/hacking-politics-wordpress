@@ -19,8 +19,8 @@
 <div class="bs-component">
               <table class="table table-striped table-hover" id="tablediv">
                   <tr>
-                    <td>Ben Moskowitz, NYU</td>
-                    <td>Dan Schultz, Internet Archive</td>
+                    <td>Ben Moskowitz, @benrito, NYU</td>
+                    <td>Dan Schultz, Senior Creative Technologist at the Internet Archive</td>
                   </tr>
                   <tr>
                     <td>Judy Lieff</td>
@@ -43,12 +43,24 @@
                     <td>Shelley Hepworth</td>
                   </tr>
                   <tr>
-                    <td>Tracey Jacquith</td>
+                    <td>Jaquith, @tracey_pooh, archive.org TV and A/V </td>
                     <td>Shawn van Every</td>
                   </tr>
                  <tr>
                     <td>Brett Gaylor</td>
                     <td>Chris Lawrence</td>
+                  </tr>
+                 <tr>
+                    <td>Mark Boas</td>
+                    <td>Laurian Gridinoc</td>
+                  </tr>
+                 <tr>
+                    <td>Aphid</td>
+                    <td>Cynthia Hua</td>
+                  </tr>
+                 <tr>
+                    <td>Daniel Riaz</td>
+                    <td>Kevin Daley</td>
                   </tr>
                </table> 
 
