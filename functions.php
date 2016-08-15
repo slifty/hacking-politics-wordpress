@@ -154,3 +154,6 @@ function register_submission_type() {
 }
 
 add_action('init', 'register_submission_type');
+
+// Load in custom fields
+require_once('acf/submission-fields.php');
