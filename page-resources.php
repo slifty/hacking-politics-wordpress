@@ -1,17 +1,13 @@
 <?php get_header(); ?>
 
 <div class="container">
-	<video autoplay loop muted="true" id="bgvid">
-    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background2.ogv" type="video/ogv">
-    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background2.mp4" type="video/mp4">
-</video>
 
 	<div class="page-header">
 
 		<div class="row">
           <div class="col-lg-9 col-md-9 col-sm-9">
-            <h1 class="whitetext">Resources</h1>
-            <p class="lead whitetext">To help you deconstruct the election, we've pulled together a range of free tools that make it easy to create, edit and share video.</span></p>
+            <h1>Resources</h1>
+            <p class="lead ">To help you deconstruct the election, we've pulled together a range of free tools that make it easy to create, edit and share video.</span></p>
           </div>
 
 		<div class="row">
@@ -62,7 +58,7 @@
 				  <div class="panel-body">
 					<h3><a href="http://antiboredom.github.io/videogrep/
 					">Videogrep</a></h3>
-					<img src="<?php bloginfo('stylesheet_directory'); ?>/imgimg/videogrep.png" class="centered-stuff"><br>
+					<img src="<?php bloginfo('stylesheet_directory'); ?>/img/videogrep.png" class="centered-stuff"><br>
 					<span>A powerful tool that will create supercuts from video transcripts. Available for Mac computers and there's also a more advanced version that uses the command line.</span><br><br>
 					<span><strong>Getting started:</strong> visit <a href="#">the install page</a> to get Videogrep. Check out this <a href="#">tutorial</a>, and when you're ready, get to work with some <a href="#content"> sample content</a> that we have collected for you.</span>
 				  </div>

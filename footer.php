@@ -31,10 +31,11 @@
         <?php wp_footer(); ?>
                 <script type="text/javascript" src="../wp-content/themes/hacking-politics-wordpress/js/jquery.min.js"></script>
         <script type="text/javascript" src="../wp-content/themes/hacking-politics-wordpress/js/bootstrap.min.js"></script>
-<script>
-$(document).ready( function() {
-$('.dropdown-toggle').dropdown();
-});
-</script>
-	</body>
+		<script>
+		$(document).ready( function() {
+		$('.dropdown-toggle').dropdown();
+		});
+		</script>
+		<?php include_once("analyticstracking.php") ?>
+</body>
 </html>

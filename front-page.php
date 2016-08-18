@@ -82,5 +82,6 @@
             </div>
 
         <?php wp_footer(); ?>
-  </body>
-</html>
+<?php include_once("analyticstracking.php") ?>
+      </body>
+      </html>

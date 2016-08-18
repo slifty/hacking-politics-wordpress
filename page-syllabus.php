@@ -4,11 +4,6 @@
 
 	<div class="page-header">
 
-  <video autoplay loop muted="true" id="bgvid">
-    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/comicscratch2.webm" type="video/webm">
-    <source src="<?php bloginfo('stylesheet_directory'); ?>/img/comicscratch2.mp4" type="video/mp4">
-</video>
-
 		<div class="row">
 
 		<div class="col-lg-12" style="background-color:white;">
@@ -27,7 +22,7 @@
                   </tr>
                 </thead>
                 <tbody>
-                  <tr class="info">
+                  <tr class="">
                     <td>Sep. 26th</td>
                     <td><h4><a href="week1" title="Television and debates">Television and debates</a></h4></td>
                     <td class="tdleft">
@@ -40,7 +35,7 @@
                     <td><a href="supercut" data-toggle="tooltip" title="Let's go!">How to make a "supercut"</a></td>
                   </tr>
 
-                  <tr class="danger">
+                  <tr class="">
                     <td>Oct. 3rd</td>
                     <td><h4><a href="week2" title="Comparative news & bias">Comparative news & bias</a></h4></td>
                     <td>
@@ -52,7 +47,7 @@
                     </td>
                     <td><a href="deconstruct" data-toggle="tooltip" title="Let's go!">How to deconstruct the media</a></td>
                   </tr>
-                  <tr class="info">
+                  <tr class="">
                     <td>Oct. 10th</td>
                     <td><h4><a href="week3" title="Attack ads">(Attack) ads</a></h4></td>
                     <td>
@@ -64,7 +59,7 @@
                     </td>
                     <td><a href="attack-ad" data-toggle="tooltip" title="Let's go!">How to make an attack ad</a></td>
                   </tr>
-                  <tr class="danger">
+                  <tr class="">
                     <td>Oct. 17th</td>
                     <td><h4><a href="week4" title="Social media and elections">Social media and elections</a></h4></td>
                     <td>
@@ -76,7 +71,7 @@
                     </td>                    
                     <td><a href="make-a-point" data-toggle="tooltip" title="Let's go!">How to make your point with video</a></td>
                   </tr>
-                  <tr class="info">
+                  <tr class="">
                     <td>Oct. 24th</td>
                     <td><h4><a href="week5" title="Soundbites and spin cycles">Soundbites and spin cycles</a></h4></td>
                     <td>
@@ -88,7 +83,7 @@
                     <td>
                       <a href="viral" data-toggle="tooltip" title="Let's go!">How to go viral</a></td>
                   </tr>
-                  <tr class="danger">
+                  <tr class="">
                     <td>Oct. 31st</td>
                     <td><h4><a href="week6" title="Truthiness and reconciliation">Truthiness and reconciliation</a></h4></td>
                     <td>

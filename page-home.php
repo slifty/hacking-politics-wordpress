@@ -52,7 +52,7 @@
 </video>
 </div>
 			<div class="jumbotron">
-			<h1><a href="https://twitter.com/search?f=tweets&q=%23spintimetv">#spintimetv</a> is an online community that explores election 2016 through video remix.</h1>
+			<h1><a href="https://twitter.com/search?f=tweets&q=%23spintimetv">#spintimetv</a> is an online community remixing election 2016.</h1>
       <br>
 			<br>
 			<a class="btn btn-lg red button" href="#" role="button">Sign up for updates</a>
