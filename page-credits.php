@@ -19,12 +19,12 @@
 <div class="bs-component">
               <table class="table table-striped table-hover" id="tablediv">
                   <tr>
-                    <td>Ben Moskowitz, @benrito, NYU</td>
+                    <td>Ben Moskowitz, NYU, @benrito</td>
                     <td>Dan Schultz, Senior Creative Technologist at the Internet Archive</td>
                   </tr>
                   <tr>
-                    <td>Judy Lieff</td>
-                    <td>Jared van Fleet</td>
+                    <td>Judy Lieff, filmmaker and instigator, @newdayfilms </td>
+                    <td>Jared van Fleet, bit experientialist, @jaredvanfleet  </td>
                   </tr>
                   <tr>
                     <td>Sam Lavigne</td>
@@ -35,11 +35,11 @@
                     <td>Tom Jennings</td>
                   </tr>
                   <tr>
-                    <td>Freddie Yosifov</td>
+                    <td>Freddie Yosifov, media manager at TED, @hisgirlfreddie</td>
                     <td>DC Vito</td>
                   </tr>
                   <tr>
-                    <td>Beverly Peterson</td>
+                    <td>Beverly Peterson, filmmaker and educator at Montclair State University, @nojobisworth </td>
                     <td>Shelley Hepworth</td>
                   </tr>
                   <tr>
@@ -61,6 +61,9 @@
                  <tr>
                     <td>Daniel Riaz</td>
                     <td>Kevin Daley</td>
+                 <tr>
+                    <td>Tanya Campbell, designer, web developer, artist, teacher and resident at NYU ITP</td>
+                    <td>and you!</td>
                   </tr>
                </table> 
 
