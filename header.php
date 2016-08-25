@@ -25,9 +25,7 @@
                                     <ul class="dropdown-menu" role="menu">
                                       <li><a href="<?php bloginfo('url'); ?>/editor">TV News Editor</a></li>
                                       <li class="divider"></li>
-                                      <li><a href="<?php bloginfo('url'); ?>/pad">Transcript Editor</a></li>
-                                      <li class="divider"></li>
-                                      <li><a href="<?php bloginfo('url'); ?>/resources">Other stuff</a></li>
+                                      <li><a href="<?php bloginfo('url'); ?>/resources">Tutorials</a></li>
                                     </a></li>
                                     </ul>
                                   </li>

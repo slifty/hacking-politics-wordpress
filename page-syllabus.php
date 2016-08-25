@@ -9,7 +9,8 @@
 		<div class="col-lg-12" style="background-color:white;">
           <div class="col-lg-8 col-md-7 col-sm-6">
             <h1>Schedule</h1>
-            <p class="lead">What we'll be spinning between now and the election</p>
+            <p class="lead"><a href="http://spintime.tv/join">Sign up now</a> and we'll email you when it's time to get started.</p> 
+
           </div>
 <div class="bs-component">
               <table class="table table-striped table-hover" id="tablediv">

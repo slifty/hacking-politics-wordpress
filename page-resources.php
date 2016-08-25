@@ -45,10 +45,10 @@
 			<div class="col-md-6">
 				<div class="panel panel-default">
 				  <div class="panel-body">
-					<h3><a href="http://election.hyperaud.io">Hyperaudio Pad</a></h3>
+					<h3><a href="http://election.hyperaud.io">Transcript editor</a></h3>
 					<img src="<?php bloginfo('stylesheet_directory'); ?>/img/pad.png" class="centered-stuff"><br>
 					<span>A simple, web-based tool that lets you edit video as you would edit text--by copy-pasting.</span><br><br>
-					<span><strong>Getting started:</strong> Visit <a href="http://election.hyperaud.io">election.hyperaud.io</a> to create a new project. We have collected <a href="#content">core content</a> including debates, rallies and speeches for you to work with. Check out the video tutorial <a href="#">here</a>.</span>
+					<span><strong>Getting started:</strong> We have collected debates, rallies and speeches for you to work with. Check out the video tutorial <a href="#">here</a>.</span>
 				  </div>
 				</div>
 			</div>
@@ -59,15 +59,15 @@
 					<h3><a href="http://antiboredom.github.io/videogrep/
 					">Videogrep</a></h3>
 					<img src="<?php bloginfo('stylesheet_directory'); ?>/img/videogrep.png" class="centered-stuff"><br>
-					<span>A powerful tool that will create supercuts from video transcripts. Available for Mac computers and there's also a more advanced version that uses the command line.</span><br><br>
-					<span><strong>Getting started:</strong> visit <a href="#">the install page</a> to get Videogrep. Check out this <a href="#">tutorial</a>, and when you're ready, get to work with some <a href="#content"> sample content</a> that we have collected for you.</span>
+					<span>For advanced users. A powerful tool that will create supercuts from video transcripts. Available for Mac computers and there's also a more advanced version that uses the command line.</span><br><br>
+					<span><strong>Getting started:</strong> visit <a href="http://antiboredom.github.io/videogrep/">the install page</a> to get Videogrep. Check out this <a href="#">tutorial</a>, and when you're ready, get to work with some <a href="#content"> sample content</a> that we have collected for you.</span>
 				  </div>
 				</div>
 			</div>
 
 		</div>
 
-
+<!--
 	<div class="row">
 		<h2>References</h2>
 	</div>
@@ -95,7 +95,7 @@
 	</div>
 
 	</div>
-
+!-->
 </div>
 
 

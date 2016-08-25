@@ -22,7 +22,7 @@
 			</div>
 
 	<div class="row">
-		<p style="text-align: center; margin-top: 20px">Made by a bunch of people in 2016 * contact@spintime.tv</p>
+		<p style="text-align: center; margin-top: 20px">Made by a bunch of people in 2016 * <a href="mailto:hello@spintime.tv">hello@spintime.tv</a></p>
 	</div>
 
 			</div>

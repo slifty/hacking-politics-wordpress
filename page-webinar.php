@@ -6,9 +6,11 @@
 
 		<div class="row">
           <div class="col-lg-10 col-md-10 col-sm-10">
-            <h1>Join</h1>
-            <p class="lead">Sign up for Spin Time TV so you can remix election 2016.</span></p>
-            <p>Spin Time TV kicks off September 26th, 2016. It's free. We'll email you about once a week so you can follow along and participate. </p>
+            <h1>Webinar: a web-native approach to media literacy</h1>
+            <p class="lead">For information about how to participate in <a href="https://twitter.com/search?f=tweets&q=%23spintimetv">#spintimetv</a> as an educator, sign up for an information session.</span></p>
+            <h3>When: Wednesday, August 31st</h3>
+            <h3>Time: 12pm PST/3pm EST (we'll email you the Google Hangouts link)</h3>
+  
           </div>
     </div>
   </div>

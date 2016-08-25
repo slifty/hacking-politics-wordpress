@@ -19,51 +19,51 @@
 <div class="bs-component">
               <table class="table table-striped table-hover" id="tablediv">
                   <tr>
-                    <td>Ben Moskowitz, NYU, @benrito</td>
-                    <td>Dan Schultz, Senior Creative Technologist at the Internet Archive</td>
+                    <td><strong>Ben Moskowitz</strong>, NYU ITP, <a href="https://twitter.com/benrito">@benrito</a></td>
+                    <td><strong>Dan Schultz</strong>, Senior Creative Technologist @ Internet Archive, <a href="https://twitter.com/slifty">@slifty</a></td>
                   </tr>
                   <tr>
-                    <td>Judy Lieff, filmmaker and instigator, @newdayfilms </td>
-                    <td>Jared van Fleet, bit experientialist, @jaredvanfleet  </td>
+                    <td><strong>Judy Lieff</strong>, filmmaker and instigator, <a href="https://twitter.com/newdayfilms">@newdayfilms</a> </td>
+                    <td><strong>Jared van Fleet</strong>, bit experientialist, <a href="https://twitter.com/jaredvanfleet">@jaredvanfleet</a>  </td>
                   </tr>
                   <tr>
-                    <td>Sam Lavigne</td>
-                    <td>Rolf Anderson</td>
+                    <td><strong>Sam Lavigne</strong>, creative technologist & Videogrep, <a href="https://twitter.com/sam_lavigne">@sam_lavigne</a></td>
+                    <td><strong>Freddie Yosifov</strong>, media manager at TED, <a href="https://twitter.com/hisgirlfreddie">@hisgirlfreddie</a></td>
                   </tr>
                   <tr>
-                    <td>Mike Richison</td>
-                    <td>Tom Jennings</td>
+                    <td><strong>Mike Richison</strong></td>
+                    <td><strong>Beverly Peterson</strong>, filmmaker and educator @ Montclair State University, <a href="https://twitter.com/nojobisworth">@nojobisworth</a> </td>
                   </tr>
                   <tr>
-                    <td>Freddie Yosifov, media manager at TED, @hisgirlfreddie</td>
-                    <td>DC Vito</td>
+                    <td><strong>Tracey Jaquith</strong>, archive.org TV and A/V, <a href="https://twitter.com/tracey_pooh">@tracey_pooh</a> </td>
+                    <td><strong>Shawn van Every</strong>, NYU ITP, <a href="https://twitter.com/vanevery">@vanevery</a></td>
+                  </tr>             
+                  <tr>
+                    <td><strong>Mark Boas</strong>, jPlayer / Hyperaud.io / Trint, <a href="https://twitter.com/maboa">@maboa</a></td>
+                    <td><strong>Laurian Gridinoc</strong>, Hyperaud.io / Trint, <a href="https://twitter.com/gridinoc">@gridinoc</a></td>
                   </tr>
                   <tr>
-                    <td>Beverly Peterson, filmmaker and educator at Montclair State University, @nojobisworth </td>
-                    <td>Shelley Hepworth</td>
+                    <td><strong>Rolf Anderson</strong></td>
+                    <td><strong>DC Vito</strong>, Executive Director @ The LAMP, <a href="https://twitter.com/DCVito">@DCVito</a></td>
                   </tr>
                   <tr>
-                    <td>Jaquith, @tracey_pooh, archive.org TV and A/V </td>
-                    <td>Shawn van Every</td>
+                    <td><strong>Shelley Hepworth</strong></td>
+                    <td><strong>Tom Jennings</strong></td>
                   </tr>
                  <tr>
-                    <td>Brett Gaylor</td>
-                    <td>Chris Lawrence</td>
+                    <td><strong>Brett Gaylor</strong>, Mozilla and Do Not Track, <a href="https://twitter.com/remixmanifesto">@remixmanifesto</a></td>
+                    <td><strong>Chris Lawrence</strong>, Mozilla, <a href="https://twitter.com/chrislarry33">@chrislarry33</a></td>
                   </tr>
                  <tr>
-                    <td>Mark Boas</td>
-                    <td>Laurian Gridinoc</td>
+                    <td><strong>Aphid</strong>, open video hacker, <a href="https://twitter.com/aphid23">@aphid23</a></td>
+                    <td><strong>Cynthia Hua</strong>, Facebook </td>
                   </tr>
                  <tr>
-                    <td>Aphid</td>
-                    <td>Cynthia Hua</td>
-                  </tr>
+                    <td><strong>Tanya Campbell</strong>, designer, web developer, artist, teacher and resident at NYU ITP</a></td>
+                    <td><strong>Kevin Daley</strong></td>
                  <tr>
-                    <td>Daniel Riaz</td>
-                    <td>Kevin Daley</td>
-                 <tr>
-                    <td>Tanya Campbell, designer, web developer, artist, teacher and resident at NYU ITP</td>
-                    <td>and you!</td>
+                    <td><strong>Daniel Riaz</strong></td>
+                    <td><strong>and you!</td>
                   </tr>
                </table> 
 
