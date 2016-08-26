@@ -28,11 +28,11 @@
                   </tr>
                   <tr>
                     <td><strong>Sam Lavigne</strong>, creative technologist & Videogrep, <a href="https://twitter.com/sam_lavigne">@sam_lavigne</a></td>
-                    <td><strong>Freddie Yosifov</strong>, media manager at TED, <a href="https://twitter.com/hisgirlfreddie">@hisgirlfreddie</a></td>
+                    <td><strong>Mike Richison</strong>, artist & educator @ Monmouth University, <a href="https://twitter.com/mikerichison">@mikerichison</a></td>
                   </tr>
                   <tr>
-                    <td><strong>Mike Richison</strong></td>
                     <td><strong>Beverly Peterson</strong>, filmmaker and educator @ Montclair State University, <a href="https://twitter.com/nojobisworth">@nojobisworth</a> </td>
+                    <td><strong>Freddie Yosifov</strong>, media manager at TED, <a href="https://twitter.com/hisgirlfreddie">@hisgirlfreddie</a></td>
                   </tr>
                   <tr>
                     <td><strong>Tracey Jaquith</strong>, archive.org TV and A/V, <a href="https://twitter.com/tracey_pooh">@tracey_pooh</a> </td>

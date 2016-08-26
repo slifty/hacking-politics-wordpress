@@ -119,8 +119,8 @@
 			<div class="col-md-3">
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
-				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/slifty.jpg" class="speaker-pic">
-					<p class="speaker-text">Dan Schultz, Internet Archive</p>
+				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/aubrey.jpg" class="speaker-pic">
+					<p class="speaker-text">Aubrey Semple, Urban Debate League</p>
 				  </div>
 				</div>
 			</div>
@@ -128,10 +128,12 @@
 			<div class="col-md-3">
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
-					<p class="speaker-text">More soon!</p>
+				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/slifty.jpg" class="speaker-pic">
+					<p class="speaker-text">Dan Schultz, Internet Archive</p>
 				  </div>
 				</div>
 			</div>
+
 
 		</div>
 

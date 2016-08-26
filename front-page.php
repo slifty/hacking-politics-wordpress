@@ -17,7 +17,7 @@
             </div>
         <ul class="nav navbar-nav navbar-right">
                                 <li id="faq-nav"><a href="<?php bloginfo('url'); ?>/about">About</a></li>
-                                <li id="speakers-nav"><a href="<?php bloginfo('url'); ?>/speakers">Talks</a></li>
+                                <li id="speakers-nav"><a href="<?php bloginfo('url'); ?>/speakers">Speakers</a></li>
                                 <li id="syllabus-nav"><a href="<?php bloginfo('url'); ?>/syllabus">Schedule</a></li>
                                 <li class="dropdown">
                                     <a href="<?php bloginfo('url'); ?>/resources" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tools <span class="caret"></span></a>
@@ -44,7 +44,7 @@
 <div class="container">
 
 <div class="page-header" id="banner">
-  <video autoplay loop id="bgvid">
+  <video autoplay muted loop id="bgvid">
     <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background.ogv" type="video/ogv">
     <source src="<?php bloginfo('stylesheet_directory'); ?>/img/background.mp4" type="video/mp4">
 </video>
