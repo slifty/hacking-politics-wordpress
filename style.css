@@ -6917,8 +6917,8 @@ label {
   height: 60px;
 }
 .centered-stuff {
-  margin: 0px auto;  
-  display: block;  
+  margin: 0px auto;
+  display: block;
 }
 .speaker-text {
   text-align: center;
@@ -6936,10 +6936,10 @@ label {
 }
 .speaker-pic:hover {
   opacity: 1;
-  -webkit-animation-name: blinker;  
-  -webkit-animation-iteration-count: infinite;  
+  -webkit-animation-name: blinker;
+  -webkit-animation-iteration-count: infinite;
   -webkit-animation-timing-function: cubic-bezier(.5, 0, 1, 1);
-  -webkit-animation-duration: .2s; 
+  -webkit-animation-duration: .2s;
 }
 .caret-right {
     border-bottom: 4px solid transparent;
@@ -6953,7 +6953,7 @@ label {
     text-align: right;
 }
 
-@-webkit-keyframes blinker {  
+@-webkit-keyframes blinker {
   from { opacity: 1.0; }
   to { opacity: 0.2; }
 }
@@ -6964,7 +6964,7 @@ label {
   to { background-color: #bc330d; -webkit-box-shadow: 0 0 9px #333; }
 }
 
-video#bgvid { 
+video#bgvid {
     position: fixed;
     top: 50%;
     left: 50%;
@@ -6977,7 +6977,7 @@ video#bgvid {
     -moz-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-    background-size: cover; 
+    background-size: cover;
 }
 
 a.red.button {
@@ -6989,4 +6989,19 @@ a.red.button {
 }
 .whitetext {
   color: white;
+}
+
+
+#join-nav { background-color: #57B0E3; }
+#join-nav a { color: #fff; }
+.navbar-fixed-top { border: none; }
+.navbar-nav {
+	padding-top: 0px;
+}
+
+
+@media (max-width: 768px) {
+	.navbar-nav {
+		padding-top: 20px;
+	}
 }

@@ -11,33 +11,34 @@
     </head>
 
     <body>
-        <div class="navbar navbar-default navbar-fixed-top" id="navbar-main">
-        <div class="container">
-            <div class="navbar-header">
-                <a href="<?php bloginfo('url'); ?>/home" class="navbar-brand"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/logo.png" class="logotop"></a>
+        <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#spintime-navbar-collapse" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="<?php bloginfo('url'); ?>/home"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/logo.png" class="logotop"></a>
+                </div>
+                <div class="collapse navbar-collapse" id="spintime-navbar-collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li id="faq-nav"><a href="<?php bloginfo('url'); ?>/about">About</a></li>
+                        <li id="speakers-nav"><a href="<?php bloginfo('url'); ?>/speakers">Speakers</a></li>
+                        <li id="syllabus-nav"><a href="<?php bloginfo('url'); ?>/syllabus">Schedule</a></li>
+                        <li class="dropdown">
+                            <a href="<?php bloginfo('url'); ?>/resources" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tools <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="<?php bloginfo('url'); ?>/editor">TV News Editor</a></li>
+                                <li class="divider"></li>
+                                <li><a href="<?php bloginfo('url'); ?>/resources">Tutorials</a></li>
+                            </ul>
+                        </li>
+                        <li id="speakers-nav"><a href="<?php bloginfo('url'); ?>/credits">Credits</a></li>
+                        <li id="join-nav"><a href="<?php bloginfo('url'); ?>/join" >Join</a></li>
+                    </ul>
+                </div>
             </div>
-        <ul class="nav navbar-nav navbar-right">
-                                <li id="faq-nav"><a href="<?php bloginfo('url'); ?>/about">About</a></li>
-                                <li id="speakers-nav"><a href="<?php bloginfo('url'); ?>/speakers">Speakers</a></li>
-                                <li id="syllabus-nav"><a href="<?php bloginfo('url'); ?>/syllabus">Schedule</a></li>
-                                <li class="dropdown">
-                                    <a href="<?php bloginfo('url'); ?>/resources" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tools <span class="caret"></span></a>
-                                    <ul class="dropdown-menu" role="menu">
-                                      <li><a href="<?php bloginfo('url'); ?>/editor">TV News Editor</a></li>
-                                      <li class="divider"></li>
-                                      <li><a href="<?php bloginfo('url'); ?>/resources">Tutorials</a></li>
-                                    </a></li>
-                                    </ul>
-                                  </li>
-                                <li id="speakers-nav"><a href="<?php bloginfo('url'); ?>/credits">Credits</a></li>
-<a href="<?php bloginfo('url'); ?>/join" class="btn btn-info">Join</a>
-         <form class="navbar-form navbar-left" role="search">
-                      <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search">
-                      </div>
-                      <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
-                    </form>
-          </ul>
-</div>
-        </div>
-            <div id="main" style="padding-top: 50px">
+        </nav>
+        <div id="main" style="padding-top: 50px">
