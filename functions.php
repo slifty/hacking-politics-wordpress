@@ -10,68 +10,7 @@ if( ! class_exists('acf') && is_admin()) {
 /**
  * Register custom fields
  */
-if(function_exists("register_field_group"))
-{
-    register_field_group(array (
-        'id' => 'acf_submission-fields',
-        'title' => 'Submission Fields',
-        'fields' => array (
-            array (
-                'key' => 'field_57895fdc44090',
-                'label' => 'Submission URL',
-                'name' => 'submission_url',
-                'type' => 'text',
-                'default_value' => '',
-                'placeholder' => '',
-                'prepend' => '',
-                'append' => '',
-                'formatting' => 'html',
-                'maxlength' => '',
-            ),
-            array (
-                'key' => 'field_57895fe944091',
-                'label' => 'Submission Type',
-                'name' => 'submission_type',
-                'type' => 'select',
-                'choices' => array (
-                ),
-                'default_value' => '',
-                'allow_null' => 0,
-                'multiple' => 0,
-            ),
-            array (
-                'key' => 'field_57895ff744092',
-                'label' => 'Assignment',
-                'name' => 'assignment',
-                'type' => 'select',
-                'choices' => array (
-                ),
-                'multiple' => 0,
-                'allow_null' => 0,
-                'default_value' => '',
-            ),
-        ),
-        'location' => array (
-            array (
-                array (
-                    'param' => 'post_type',
-                    'operator' => '==',
-                    'value' => 'post',
-                    'order_no' => 0,
-                    'group_no' => 0,
-                ),
-            ),
-        ),
-        'options' => array (
-            'position' => 'normal',
-            'layout' => 'no_box',
-            'hide_on_screen' => array (
-            ),
-        ),
-        'menu_order' => 0,
-    ));
-}
-
+include_once("acf/submission-fields.php");
 
 // Load the theme settings
 function load_politics_theme_resources() {
@@ -86,7 +25,7 @@ add_action('wp_enqueue_scripts', 'load_politics_theme_resources');
 function register_submission_type() {
     register_post_type( 'submission',
         array(
-            'rewrite' => array('with_front' => false, 'slug' => 'ad'),
+            'rewrite' => array('with_front' => false, 'slug' => 'submission'),
             'labels' => array(
                 'name' => __( 'Submissions' ),
                 'singular_name' => __( 'Submission' ),
