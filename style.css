@@ -6938,8 +6938,8 @@ label {
   opacity: 1;
   -webkit-animation-name: blinker;
   -webkit-animation-iteration-count: infinite;
-  -webkit-animation-timing-function: cubic-bezier(.5, 0, 1, 1);
-  -webkit-animation-duration: .2s;
+  -webkit-animation-timing-function: cubic-bezier(.5, 0, .5, .5);
+  -webkit-animation-duration: .5s;
 }
 .caret-right {
     border-bottom: 4px solid transparent;

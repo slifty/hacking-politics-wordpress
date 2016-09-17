@@ -31,7 +31,7 @@
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
 				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/angie.jpg" class="speaker-pic">
-				    <p class="speaker-text">Angie Holan, Politifact</p>
+				    <p class="speaker-text">Angie Drobnic Holan, Politifact</p>
 				  </div>
 				</div>
 			</div>
