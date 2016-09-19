@@ -1,7 +1,12 @@
 <div style="width: 100%; background-color: white">
 	<div class="container" style="background-color: white">
 			<div class="row" style="margin-top: 50px">
+<<<<<<< Updated upstream
 				<div class="col-md-3 col-xs-6">
+=======
+				
+				<div class="col-md-3">
+>>>>>>> Stashed changes
 					<img src="<?php bloginfo('stylesheet_directory'); ?>/img/partners/itp.png">
 				</div>
 
@@ -16,7 +21,9 @@
 
 				<div class="col-md-3 col-xs-6 partner-logo">
 					<img src="<?php bloginfo('stylesheet_directory'); ?>/img/partners/lamp.png">
+					<img src="<?php bloginfo('stylesheet_directory'); ?>/img/partners/int.jpg">
 				</div>
+
 </div>
 
 			</div>

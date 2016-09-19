@@ -67,7 +67,7 @@
                       <ul>
                         <li><strong>Oct. 19th: final general election debate</strong></li>
                         <li><a href="#">TBD: Public participation in elections</a></li>
-                        <li><a href="#">TBD: Fact checking</a></li>
+                        <li><a href="#">Angie Holan: Truth, fact and fiction</a></li>
                       </ul>
                     </td>                    
                     <td><a href="make-a-point" data-toggle="tooltip" title="Let's go!">How to make your point with video</a></td>

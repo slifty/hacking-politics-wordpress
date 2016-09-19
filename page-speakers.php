@@ -110,8 +110,8 @@
 			<div class="col-md-3">
 				<div class="panel panel-default">
 				  <div class="panel-body spaz">
-				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/andy.jpg" class="speaker-pic">
-				    <p class="speaker-text">Andy Bichlbaum, Yes Men prankster</p>
+				  	<img src="<?php bloginfo('stylesheet_directory'); ?>/img/speakers/jonathan.jpg" class="speaker-pic">
+				    <p class="speaker-text">Jonathan McIntosh, Pop Culture Detective Agency</p>
 				  </div>
 				</div>
 			</div>
