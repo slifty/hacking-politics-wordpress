@@ -43,7 +43,7 @@
                     <td><strong>Laurian Gridinoc</strong>, Hyperaud.io / Trint, <a href="https://twitter.com/gridinoc">@gridinoc</a></td>
                   </tr>
                   <tr>
-                    <td><strong>Rolf Anderson</strong></td>
+                    <td><strong>Peter Kaufman</strong>, President & Executive Producer Intelligent Television, <a href="https://twitter.com/pbkauf">@pbkauf</a> </td>
                     <td><strong>DC Vito</strong>, Executive Director @ The LAMP, <a href="https://twitter.com/DCVito">@DCVito</a></td>
                   </tr>
                   <tr>
@@ -63,7 +63,7 @@
                     <td><strong>Kevin Daley</strong></td>
                  <tr>
                     <td><strong>Daniel Riaz</strong></td>
-                    <td><strong>and you!</td>
+                    <td><strong>Rolf Anderson</td>
                   </tr>
                </table> 
 

@@ -19,7 +19,7 @@
             <div class="panel panel-default">
             <div class="panel-body">
       <h2>Spin Time TV begins September 26, 2016</h2>
-                <p class="lead">10 weeks to election day!</p>
+                <p class="lead">6 weeks to election day!</p>
               <div class="progress progress-striped"><div class="progress-bar progress-bar-info" style="width: 1%"></div></div>
         <ul class="pager">
           <li class="previous disabled"><a href="#">&larr; Last week</a></li>

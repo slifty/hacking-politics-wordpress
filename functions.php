@@ -58,7 +58,7 @@ function register_submission_type() {
     );
 
     // Set up editor capabilities
-    $roles = ['editor', 'administrator'];
+    $roles = array('editor', 'administrator');
     foreach ( $roles as $roleName ) {
 
       // Get the author role
@@ -76,7 +76,7 @@ function register_submission_type() {
     }
 
     // Set up author capabilities
-    $roles = ['author'];
+    $roles = array('author');
     foreach ( $roles as $roleName ) {
 
       // Get the author role
