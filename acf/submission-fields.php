@@ -6,6 +6,14 @@ if(function_exists("register_field_group"))
         'title' => 'Submission Fields',
         'fields' => array (
             array (
+                'key' => 'field_57b2496952978',
+                'label' => 'Your Name',
+                'name' => 'submitter_name',
+                'type' => 'text',
+                'required' => 1,
+                'default_value' => ''
+            ),
+            array (
                 'key' => 'field_57b2496952977',
                 'label' => 'Assignment',
                 'name' => 'assignment',
