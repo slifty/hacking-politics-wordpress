@@ -14,6 +14,14 @@ if(function_exists("register_field_group"))
                 'default_value' => ''
             ),
             array (
+                'key' => 'field_57b2496952979',
+                'label' => 'Your Email',
+                'name' => 'submitter_email',
+                'type' => 'text',
+                'required' => 1,
+                'default_value' => ''
+            ),
+            array (
                 'key' => 'field_57b2496952977',
                 'label' => 'Assignment',
                 'name' => 'assignment',
