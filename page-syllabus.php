@@ -29,8 +29,8 @@
                     <td class="tdleft">
                       <ul>
                         <li><strong>Sep. 26th: first general election debate</strong></li>
-                        <li><a href="#">Clay Shirky: Debates then and now</a></li>
-                        <li><a href="#">TBD: debates as reality TV</a></li>
+                        <li><a href="https://www.youtube.com/watch?v=xYrgx1G_CW4">Clay Shirky: Debates then and now</a></li>
+                        <li><a href="https://www.youtube.com/watch?v=ipLoS44xfO4">Aubrey Semple: Debates as reality TV</a></li>
                       </ul>
                     </td>
                     <td><a href="supercut" data-toggle="tooltip" title="Let's go!">How to make a "supercut"</a></td>
@@ -42,8 +42,7 @@
                     <td>
                       <ul>
                         <li><strong>Oct. 4th / 9th: VP debate and second debate</strong></li>
-                        <li><a href="#">TBD: The mainstream liberal media</a></li>
-                        <li><a href="#">TBD: What liberal media bias?</a></li>
+                        <li><a href="#">Jane Hall: Polarization and media bias</a></li>
                       </ul>
                     </td>
                     <td><a href="deconstruct" data-toggle="tooltip" title="Let's go!">How to deconstruct the media</a></td>
@@ -53,9 +52,7 @@
                     <td><h4><a href="week3" title="Attack ads">(Attack) ads</a></h4></td>
                     <td>
                       <ul>
-                        <li><a href="#">TBD: A brief history of political ads</a></li>
-                        <li><a href="#">TBD: Are negative ads good for democracy?</a></li>
-                        <li><a href="#">TBD: Building a public library for political ads</a></li>
+                        <li><a href="#">Roger MacDonald: Building a public library for political ads</a></li>
                       </ul>
                     </td>
                     <td><a href="attack-ad" data-toggle="tooltip" title="Let's go!">How to make an attack ad</a></td>
@@ -66,7 +63,6 @@
                     <td>
                       <ul>
                         <li><strong>Oct. 19th: final general election debate</strong></li>
-                        <li><a href="#">TBD: Public participation in elections</a></li>
                         <li><a href="#">Angie Holan: Truth, fact and fiction</a></li>
                       </ul>
                     </td>                    
@@ -77,9 +73,7 @@
                     <td><h4><a href="week5" title="Soundbites and spin cycles">Soundbites and spin cycles</a></h4></td>
                     <td>
                       <ul>
-                        <li><a href="#">TBD: Gaffes vs. soundbites</a></li>
-                        <li><a href="#">TBD: Six seconds is the new 140 characters</a></li>
-                        <li><a href="#">TBD: The outrage machine</a></li>
+                        <li><a href="#">Vic Berger: Six seconds is the new 140 characters</a></li>
                       </ul>
                     <td>
                       <a href="viral" data-toggle="tooltip" title="Let's go!">How to go viral</a></td>
@@ -89,8 +83,6 @@
                     <td><h4><a href="week6" title="Truthiness and reconciliation">Truthiness and reconciliation</a></h4></td>
                     <td>
                       <ul>
-                        <li><a href="#">TBD: Comedy in politics</a></li>
-                        <li><a href="#">TBD: Wither civility?</a></li>
                         <li><a href="#">TBD: The dark arts of political messaging</a></li>
                       </ul>
                     <td>
