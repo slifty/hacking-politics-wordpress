@@ -25,7 +25,7 @@
                 <div class="collapse navbar-collapse" id="spintime-navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li id="faq-nav"><a href="<?php bloginfo('url'); ?>/about">About</a></li>
-                        <li id="speakers-nav"><a href="<?php bloginfo('url'); ?>/speakers">Speakers</a></li>
+                        <li id="talks-nav"><a href="https://www.youtube.com/channel/UCuuV0R8LO4KFt6XCA9kzXkA/videos">Talks</a></li>
                         <li id="submissions-nav"><a href="<?php bloginfo('url'); ?>/submission">Submissions</a></li>
                         <li class="dropdown">
                             <a href="<?php bloginfo('url'); ?>/resources" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tools <span class="caret"></span></a>
