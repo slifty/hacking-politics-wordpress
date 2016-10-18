@@ -64,7 +64,10 @@ get_header(); ?>
                 	<p class="lead">Make your own video</p>
 					<a href="https://archive.org/pop/editor.html"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/popcorn.png" class="centered-stuff" style="width: 75%"></a><br>
 					<span class="wrapright">Check out Popcorn, a web-based video editor that helps you remix media from across the web. You can use Popcorn to make video essays, supercuts, sequences and more.</span><br><br>
-           			 <a class="btn red button" href="https://archive.org/pop/editor.html" role="button">Try it</a>
+           			 <a class="btn red button" href="https://archive.org/pop/editor.html" role="button">Try Popcorn</a><br><br>
+
+					 <a class="btn red button" href="http://spintime.tv/submit" role="button">Submit a video</a>
+
                 </div>
            		</div>
           	</div>
