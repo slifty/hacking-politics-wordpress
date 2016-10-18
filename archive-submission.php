@@ -22,7 +22,10 @@ get_header(); ?>
 
         <?php if ( have_posts() ) : ?>
 
-            <h1>Remix Submissions</h1>
+            <h1>Submissions</h1>
+
+      <div class="row">
+          <div class="col-md-8">
 
             <?php
             // Start the Loop.
@@ -45,13 +48,30 @@ get_header(); ?>
 
             // Previous/next page navigation.
             the_posts_pagination( array(
-                'prev_text'          => 'Previous page',
-                'next_text'          => 'Next page',
-                'before_page_number' => '<span class="meta-nav screen-reader-text">Page </span>',
+                'prev_text'          => '<<',
+                'next_text'          => '>>',
+                'before_page_number' => '<span class="meta-nav screen-reader-text">[</span>',
+                'after_page_number' => '<span class="meta-nav screen-reader-text">] </span>',
             ) );
         endif;
         ?>
+		</div>
+          <div class="col-md-4">
+          	<div>
+            	<div class="panel panel-default">
+           		<div class="panel-body">
+                	<p class="lead">Make your own video</p>
+					<a href="https://archive.org/pop/editor.html"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/popcorn.png" class="centered-stuff" style="width: 75%"></a><br>
+					<span class="wrapright">Check out Popcorn, a web-based video editor that helps you remix media from across the web. You can use Popcorn to make video essays, supercuts, sequences and more.</span><br><br>
+           			 <a class="btn red button" href="https://archive.org/pop/editor.html" role="button">Try it</a>
+                </div>
+           		</div>
+          	</div>
+            <a class="twitter-timeline"  href="https://twitter.com/hashtag/spintimetv" data-widget-id="757742999103213568">#spintimetv Tweets</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
+              </div>
+		</div>
         </main><!-- .site-main -->
     </div><!-- .content-area -->
 <?php get_footer(); ?>

@@ -23,16 +23,12 @@
           <div class="col-md-8">
             <div class="panel panel-default">
             <div class="panel-body">
-                <p class="lead">5 weeks to election day!</p>
-              <div class="progress progress-striped"><div class="progress-bar progress-bar-info" style="width: 1%"></div></div>
+                <p class="lead">3 weeks to election day!</p>
+              <div class="progress progress-striped"><div class="progress-bar progress-bar-info" style="width: 70%"></div></div>
       <h2>Debates, Then and Now</h2>
 <center>      <a href="https://www.youtube.com/watch?v=xYrgx1G_CW4"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/1clay.jpg"></a>
       <a href="https://www.youtube.com/watch?v=ipLoS44xfO4"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/1aubrey.jpg"></a>
-</center>        <ul class="pager">
-          <li class="previous"><a href="http://spintime.tv/join">&larr; Sign up</a></li>
-          <li>Now: <a href="http://spintime.tv/join">Debates, Then and Now</a></li>
-          <li class="next disabled"><a href="#">Next week &rarr;</a></li>
-        </ul>
+</center>        
       </div>
       </div>
 

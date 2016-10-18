@@ -26,7 +26,7 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li id="faq-nav"><a href="<?php bloginfo('url'); ?>/about">About</a></li>
                         <li id="speakers-nav"><a href="<?php bloginfo('url'); ?>/speakers">Speakers</a></li>
-                        <li id="syllabus-nav"><a href="<?php bloginfo('url'); ?>/syllabus">Schedule</a></li>
+                        <li id="submissions-nav"><a href="<?php bloginfo('url'); ?>/submission">Submissions</a></li>
                         <li class="dropdown">
                             <a href="<?php bloginfo('url'); ?>/resources" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tools <span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu">
