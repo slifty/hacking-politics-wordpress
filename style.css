@@ -7005,3 +7005,4 @@ a.red.button {
 		padding-top: 20px;
 	}
 }
+.screen-reader-text { display: none; }

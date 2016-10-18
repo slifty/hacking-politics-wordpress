@@ -36,6 +36,7 @@ get_header(); ?>
                 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
                     <h2><a href="<?php the_permalink(); ?>"><?php echo(the_title());?></a></h2>
+                        <div class="date"><?php echo(get_the_date()); ?></div>
                         <div>by <?php echo($post_metadata['submitter_name']); ?></div>
                     </footer><!-- .entry-footer -->
                 </article><!-- #post-## -->
